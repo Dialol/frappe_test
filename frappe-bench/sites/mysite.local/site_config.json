@@ -1,0 +1,8 @@
+{
+ "db_host": "localhost",
+ "db_name": "frappe",
+ "db_password": "frappe",
+ "db_port": 5432,
+ "db_type": "postgres",
+ "db_user": "frappe"
+}
